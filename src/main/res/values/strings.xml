@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountingThreadApp</string>
+    <string name="timer">0</string>
+</resources>
